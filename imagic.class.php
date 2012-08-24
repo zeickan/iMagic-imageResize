@@ -29,7 +29,7 @@ class imagic {
 	
 	function __construct() {
 		
-		$this->save = false;
+		$this->save = NULL;
 		
 		$this->path = $path;
 		
